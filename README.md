@@ -6,11 +6,9 @@
 [![Downloads][downloads-badge]][releases]
 [![Built with Discord.JS][builtwithdjs-badge]][builtwithdjs]
 
-zoxide is a **smarter cd command**, inspired by z and autojump.
+**RocketTrades**, Discord Charts and Stocks bot.
 
-It remembers which directories you use most frequently, so you can "jump" to
-them in just a few keystrokes.<br />
-zoxide works on all major shells.
+MORE DETAILS AND UPDATES TO COME SOON<br />
 
 [Getting started](#getting-started) •
 [Installation](#installation) •
@@ -73,7 +71,8 @@ When calling `zoxide init`, the following flags are available:
     | `token`    | Your secret API access token. *`(Made by you)`* |
 
 
-
-
+[builtwithdjs-badge]: https://img.shields.io/badge/builtwith-djs-7d81f7?style=flat-square
+[builtwithdjs]: https://discord.js.org/#/
+[downloads-badge]: https://img.shields.io/github/downloads/SirHoDo/RocketTrades/total?style=flat-square
 [issues]: https://github.com/SirHoDo/RocketTrades/issues/new
-
+[releases]: https://github.com/SirHoDo/RocketTrades/releases
