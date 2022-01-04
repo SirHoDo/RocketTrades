@@ -34,7 +34,7 @@ class guildDelete extends Event {
 			`MemberCount: ${guild.memberCount ?? 'undefined'}`,
 		].join('\n'));
     console.log("Joined a new guild: " + guild.name);
-    client.channels.cache.get(config.GuildChannel).send({embeds: [embed]});
+    client.channels.cache.get(config.SupportServer.GuildChannel).send({embeds: [embed]});
     console.log("Left a guild: " + guild.name);
 	}
 }
